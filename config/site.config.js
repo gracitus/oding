@@ -26,7 +26,7 @@ module.exports = {
   // Used for the image of the website, and the image of the page when you share the link.
   siteImage: "/icons/512.png",
   // Used for the URL of the website, and the URL of the page when you share the link.
-  siteUrl: "https://vdn-dist2.convk.live",
+  siteUrl: "https://vdn-f1.616169.xyz",
   // Used for the language of the website, and the language of the page when you share the link.
   siteLocale: "en_US",
   // Used for the author of the website, and the author of the page when you share the link.
@@ -37,7 +37,7 @@ module.exports = {
   siteType: "website",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: '/public',
+  baseDirectory: 'public',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
